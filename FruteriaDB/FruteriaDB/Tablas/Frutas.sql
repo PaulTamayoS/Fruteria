@@ -2,5 +2,6 @@
 (
 	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
     [Nombre] NVARCHAR(150) NOT NULL,
-	[Precio] MONEY NOT NULL
+	[Precio] MONEY NOT NULL, 
+    [Comentarios] NVARCHAR(MAX) NULL
 )

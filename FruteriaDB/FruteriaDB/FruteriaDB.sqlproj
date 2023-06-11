@@ -61,4 +61,7 @@
   <ItemGroup>
     <Build Include="Tablas\Frutas.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <PostDeploy Include="MockData.sql" />
+  </ItemGroup>
 </Project>
