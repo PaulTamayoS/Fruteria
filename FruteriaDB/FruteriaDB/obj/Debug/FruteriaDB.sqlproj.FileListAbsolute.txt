@@ -1,0 +1,6 @@
+C:\Users\Draco\Desktop\Fruteria\FruteriaDB\FruteriaDB\bin\Debug\FruteriaDB.dacpac
+C:\Users\Draco\Desktop\Fruteria\FruteriaDB\FruteriaDB\bin\Debug\FruteriaDB.dll
+C:\Users\Draco\Desktop\Fruteria\FruteriaDB\FruteriaDB\bin\Debug\FruteriaDB.pdb
+C:\Users\Draco\Desktop\Fruteria\FruteriaDB\FruteriaDB\obj\Debug\FruteriaDB.sqlproj.AssemblyReference.cache
+C:\Users\Draco\Desktop\Fruteria\FruteriaDB\FruteriaDB\obj\Debug\FruteriaDB.dll
+C:\Users\Draco\Desktop\Fruteria\FruteriaDB\FruteriaDB\obj\Debug\FruteriaDB.pdb
